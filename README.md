@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou o David Araújo
 
 🎯 Analista de Suporte em transição para a área de **Dados**  
-🍳 Formado em **Gastronomia**, com paixão por **educação, cultura e tecnologia**  
-📘 Estudando **Python, SQL e análise de dados**
+🍳 Formado em **Gastronomia**, cursando atualmente **Ciência de Dados**
+📘 Estudando **Python, SQL e ML**
 
 ---
 
