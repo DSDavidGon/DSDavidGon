@@ -2,7 +2,6 @@
 
 🎯 Analista de Suporte em transição para a área de **Dados**  
 🍳 Formado em **Gastronomia**, cursando atualmente **Ciência de Dados**
-📘 Estudando **Python, SQL e ML**
 
 ---
 
